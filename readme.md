@@ -212,6 +212,11 @@ GPS Mock 기능 사용을 위해 반드시 수행:
 
 ---
 
+## HOW TO?
+ [logic](./bypasslogic.md)
+
+---
+
 ## ⚠️ 주의사항
 
 - `ACCESS_MOCK_LOCATION` 권한은 **개발자 도구용 권한**으로, Google Play 배포 시 거부될 수 있습니다.
